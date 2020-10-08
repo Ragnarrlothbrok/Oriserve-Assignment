@@ -1,0 +1,13 @@
+	Assignment
+Key:
+cc908ffaee6f9e9fedf694699585448f
+
+Secret:
+452ca1af1dbca57a
+
+Api call for Photos:
+https://www.flickr.com/services/rest/?method=flickr.photos.getRecent&api_key=626660e7ffd74257b812d43a742f05d7&format=json&nojsoncallback=1&auth_token=72157716289987453-3c73255ee3689076&api_sig=55de1fc21b6da495e4b1d6048382a2f6
+
+Api Link for Search:https://www.flickr.com/services/rest/?method=flickr.photos.search&api_key=626660e7ffd74257b812d43a742f05d7&text=Travel&format=rest&auth_token=72157716289987453-3c73255ee3689076&api_sig=e14bc935e967b882bdd50f09a031936e
+
+//Change Travel part to text entered in search bar
